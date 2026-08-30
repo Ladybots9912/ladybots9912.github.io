@@ -14,78 +14,34 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I'm a senior and Schreyer Honors Scholar at Penn State University, majoring in Electrical Engineering. 
+## About Me
 
-I'm passionate about applying computer vision, robotics, and machine learning to advance healthcare delivery and improve patient safety. Through research experiences and hands-on projects, I've been part of developing technologies that enhance how we approach healthcare delivery in terms of both efficiency and accessibility. 
+Hi! I'm Jasmine Khalil, a first-year PhD student in the **Medical Engineering Discovery (MED) Lab** at Vanderbilt University's [Vanderbilt Institute for Surgery and Engineering (VISE)](https://www.vumc.org/vise/). I earned my B.S. in Electrical Engineering from **Penn State University**, where I was a Schreyer Honors Scholar.
 
-With a strong foundation in engineering and mathematics, I thrive on tackling complex challenges and translating technical concepts into practical solutions. I am eager to continue learning, collaborating, and contributing to projects that drive meaningful advancements in medical technology and patient care.
+My research interests lie at the intersection of **computer vision, robotics, machine learning, and healthcare**. I am particularly interested in developing intelligent and autonomous systems that can improve patient care, enhance surgical safety, and expand access to healthcare. My research and professional experiences have spanned **medical robotics, computer vision, artificial intelligence, medical simulation, computational science, and healthcare applications of machine learning**.
 
-Some recent research and professional experiences I have been involved in include:
+I am also an **IBM Graduate Fellow at Vanderbilt University**, where I am pursuing research focused on advancing the use of AI and robotic technologies for healthcare.
 
- - Moncrief Summer Intern at the [Computational Visualization Center](https://oden.utexas.edu/research/centers-and-groups/computational-visualization-center/) under the mentorship of Dr. Chandrajit Bajaj at the Oden Institute for Computational Engineering and Sciences. 
- - Conducting research as part of the [2024 DIMACS REU at Rutgers University](https://reu.dimacs.rutgers.edu/~jk2264/) under the mentorship of Dr. Pierre C. Bellec.
- - Being a [Cornell/Break-Through Tech fellow](https://tech.cornell.edu/impact/break-through-tech/)
- - Working with applied AI/ML leads from [J.P. Morgan Chase & Co.](https://www.jpmorganchase.com/about/technology/research/ai) to improve the prediction of future price movements of stocks and other financial instruments during the last ten minutes of the Nasdaq exchange trading session.
+I enjoy working on challenging, interdisciplinary problems and translating technical ideas into practical solutions. My goal is to contribute to the development of innovative technologies that make healthcare **safer, more effective, and more accessible**.
 
-I am also the Teaching Assistant and coordinator for the Electrical Engineering first year seminar at Penn State, a member of the [Eta Kappa Nu (HKN) PSU student chapter](https://sites.psu.edu/hkneecs/), [Tau Beta Pi PSU student chapter](https://sites.psu.edu/tbppab/) and the [IEEE student chapter](https://sites.psu.edu/psuieee/) at Penn State.
+## Research & Professional Experience
 
-[Here is a copy of my Resume](assets/pdf/Jasmine_Khalil_Resume.pdf)
+Some of my recent research and professional experiences include:
 
-<!-- Below is a collection of my selected paintings. 
+- **IBM Graduate Fellow** at Vanderbilt University, supporting research at the intersection of artificial intelligence, robotics, and healthcare.
+- **Moncrief Summer Intern** at the [Computational Visualization Center](https://oden.utexas.edu/research/centers-and-groups/computational-visualization-center/) at the Oden Institute for Computational Engineering and Sciences at The University of Texas at Austin, where I conducted research under the mentorship of **Dr. Chandrajit Bajaj**.
+- **Researcher** in the [DIMACS REU Program](https://reu.dimacs.rutgers.edu/) at Rutgers University, where I conducted research under the mentorship of **Dr. Pierre C. Bellec**.
+- **Cornell Break Through Tech Fellow**, participating in industry-focused artificial intelligence and machine learning projects, technical training, and professional development through [Break Through Tech](https://tech.cornell.edu/impact/break-through-tech/).
+- Collaborated with **Applied AI/ML researchers at J.P. Morgan** to develop machine learning approaches for predicting short-term price movements in financial markets during the closing minutes of Nasdaq trading sessions.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/painting1.jpg" title="Painting 1" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/verdipainting.jpg" title="Painting 2" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/painting2.jpg" title="Painting 3" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
+## Teaching, Mentorship & Service
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="/assets/img/class.jpg" title="Painting 1" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/paint3.JPG" title="Painting 3" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/paint7.JPG" title="Painting 1" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
+I am passionate about teaching, mentorship, and creating opportunities for students to explore engineering and technology. Currently, I serve as a **Robotics Volunteer Coach at [St. Cecilia Academy](https://www.stcecilia.edu/)**, where I help students develop skills in robotics, programming, engineering design, problem-solving, and teamwork.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/paint6.JPG" title="Painting 2" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/paint5.JPG" title="Painting 3" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/paint1.JPG" title="Painting " class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
+During my time at Penn State, I served as the **Teaching Assistant and Coordinator for the Electrical Engineering First-Year Seminar**, where I helped teach and mentor first-year engineering students through hands-on microcontroller and Arduino-based projects.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/paint2.JPG" title="Painting 1" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/originalpainting.JPG" title="Painting 3" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/waterfallpainting2.JPG" title="Painting 5" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
+I was also actively involved in engineering honor societies and professional organizations, including:
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/waterfall.JPG" title="Painting 6" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/paint4.JPG" title="Painting 4" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div> -->
+- [**Eta Kappa Nu (HKN)**](https://sites.psu.edu/hkneecs/) — Penn State Electrical and Computer Engineering
+- [**Tau Beta Pi**](https://sites.psu.edu/tbppab/) — Penn State
+- [**IEEE**](https://sites.psu.edu/psuieee/) — Penn State
