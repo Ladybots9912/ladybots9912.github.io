@@ -1,9 +1,39 @@
 ---
 layout: page
-title: courses
+title: Courses
 nav: true
 nav_order: 5
 ---
+
+## Graduate Courses
+
+<table border="1" cellspacing="0" cellpadding="6">
+  <tr>
+    <th>Course Code</th>
+    <th>Course Title</th>
+    <th>Instructor</th>
+    <th>Semester</th>
+    <th>Syllabus</th>
+  </tr>
+  <tr>
+    <td>ME 5271</td>
+    <td>Intro to Robotics</td>
+    <td>Dr. Nabil Simaan</td>
+    <td>Fall 26</td>
+    <td><a href="">Syllabus</a></td>
+  </tr>
+  <tr>
+    <td>ME 5236</td>
+    <td>Linear Control Theory</td>
+    <td>Dr. Eric Barth</td>
+    <td>Fall 26</td>
+    <td><a href="">Syllabus</a></td>
+  </tr>
+</table>
+
+---
+
+## Undergraduate Courses
 
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
