@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Courses
-nav: true
+nav: false
 nav_order: 5
 ---
 
